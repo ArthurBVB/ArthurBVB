@@ -4,7 +4,7 @@
 
  <div id="badges">
  
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://www.linkedin.com/in/arthur-bueno-vilas-boas-99a60224a/" target= "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.facebook.com/arthur.buenovilasboas" target = "_blank" rel = "external" >
