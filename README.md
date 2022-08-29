@@ -30,6 +30,6 @@ Sou entusiata na área de programação e estou tentando me aprimorar cada vez m
 
 <div align = "center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBVB&show_icons=true&theme=bear&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurBVB&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBVB&show_icons=true&theme=github_dark&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArthurBVB&show_icons=true&show_icons=true&theme=github_dark&count_private=true" />
 </div>
