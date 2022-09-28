@@ -15,8 +15,8 @@
 
 Sou entusiata na área de programação e estou tentando me aprimorar cada vez mais! 
 
-- 🤓 Estudando PHP
-- 🧐 Estudando Python
+- 🤓 Estudando Java
+- 🧐 Estudando PHP
 - 🤯 Estudando JavaScript
 
 <div>
