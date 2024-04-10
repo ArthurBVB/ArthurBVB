@@ -15,8 +15,9 @@
 
 Sou entusiata na área de programação e estou tentando me aprimorar cada vez mais! 
 
-- 🤓 Estudando Python
-- 🧐 Estudando dataScience
+- 🤓 Estudando dataScience
+- 🧐 Estudando Machine Learning
+- 💻 Estudando IA
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
