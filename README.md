@@ -2,7 +2,6 @@
 # Olá, é bom ter você aqui🤞!
 
  <div id="badges">
- <img src = "giphy.gif" width = "325px" align= "right">
  
   <a href = "https://www.linkedin.com/in/arthur-bueno-vilas-boas-99a60224a/" target= "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,8 +9,12 @@
   <a href = "https://www.facebook.com/arthur.buenovilasboas" target = "_blank" rel = "external" >
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> </a>
 
+  <img src = "giphy.gif" width = "250px" align= "right">
+
   
 </div>
+
+
 
 Sou entusiata na área de programação e estou tentando me aprimorar cada vez mais! 
 
@@ -30,6 +33,8 @@ Sou entusiata na área de programação e estou tentando me aprimorar cada vez m
 
 
 <div align = "center">
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBVB&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ArthurBVB&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true" / >
